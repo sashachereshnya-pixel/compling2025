@@ -1,0 +1,4 @@
+1 __pycache__/
+2 .vscode/
+3 .idea/
+4 *.log
